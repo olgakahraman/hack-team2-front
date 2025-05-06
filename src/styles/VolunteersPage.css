@@ -1,0 +1,13 @@
+
+
+
+.card-info{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    gap: 2.5rem;
+    padding: 1rem;
+}
+
+
+
