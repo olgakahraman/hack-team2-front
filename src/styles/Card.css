@@ -1,0 +1,44 @@
+
+
+
+.card{
+    padding: 2rem;
+    background-color: #fff;
+    width: 210px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    line-height: 15px;
+    
+}
+
+.card img{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
+
+.card .skills{
+    margin: 0.5rem 0;
+}
+
+.card .skill{
+    margin: 0.5rem;
+    display: inline-block;
+    padding: 4px 12px;
+    font-size: 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #cc5200;
+    color: white;
+}
+
+.card button{
+    padding: 8px 16px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #cc5200;
+    color: white;
+    border: none;
+}
